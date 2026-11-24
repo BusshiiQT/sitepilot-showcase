@@ -1,0 +1,21 @@
+# Local credentials and editor files
+.env*
+*.pem
+*.key
+*.pfx
+*.p12
+*.dpapi
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Keep raw captures and exports out of the public repository
+/screenshots/raw/
+/screenshots/drafts/
+*.har
+*.log
+*.sql
+*.dump
+*.bak
+*.aes
+*.age
